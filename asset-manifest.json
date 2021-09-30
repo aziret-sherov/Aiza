@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/aiza/static/css/main.679085fa.chunk.css",
-    "main.js": "/aiza/static/js/main.2e2f75ba.chunk.js",
-    "main.js.map": "/aiza/static/js/main.2e2f75ba.chunk.js.map",
+    "main.js": "/aiza/static/js/main.a1c7b07c.chunk.js",
+    "main.js.map": "/aiza/static/js/main.a1c7b07c.chunk.js.map",
     "runtime-main.js": "/aiza/static/js/runtime-main.b4b427a2.js",
     "runtime-main.js.map": "/aiza/static/js/runtime-main.b4b427a2.js.map",
     "static/js/2.2acc6190.chunk.js": "/aiza/static/js/2.2acc6190.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b4b427a2.js",
     "static/js/2.2acc6190.chunk.js",
     "static/css/main.679085fa.chunk.css",
-    "static/js/main.2e2f75ba.chunk.js"
+    "static/js/main.a1c7b07c.chunk.js"
   ]
 }
