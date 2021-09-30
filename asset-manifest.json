@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aiza/static/css/main.f886d51f.chunk.css",
+    "main.css": "/aiza/static/css/main.abc1aa42.chunk.css",
     "main.js": "/aiza/static/js/main.a1c7b07c.chunk.js",
     "main.js.map": "/aiza/static/js/main.a1c7b07c.chunk.js.map",
     "runtime-main.js": "/aiza/static/js/runtime-main.b4b427a2.js",
@@ -8,13 +8,13 @@
     "static/js/2.2acc6190.chunk.js": "/aiza/static/js/2.2acc6190.chunk.js",
     "static/js/2.2acc6190.chunk.js.map": "/aiza/static/js/2.2acc6190.chunk.js.map",
     "index.html": "/aiza/index.html",
-    "static/css/main.f886d51f.chunk.css.map": "/aiza/static/css/main.f886d51f.chunk.css.map",
+    "static/css/main.abc1aa42.chunk.css.map": "/aiza/static/css/main.abc1aa42.chunk.css.map",
     "static/js/2.2acc6190.chunk.js.LICENSE.txt": "/aiza/static/js/2.2acc6190.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b4b427a2.js",
     "static/js/2.2acc6190.chunk.js",
-    "static/css/main.f886d51f.chunk.css",
+    "static/css/main.abc1aa42.chunk.css",
     "static/js/main.a1c7b07c.chunk.js"
   ]
 }
